@@ -1,5 +1,6 @@
 # java
 
+
 Scrivi un metodo statico isPrime() che restituisca true se l'argomento è un numero primo e false in caso contrario.
 Un numero primo è un numero intero positivo che non ha divisori diversi da uno e se stesso.
 
